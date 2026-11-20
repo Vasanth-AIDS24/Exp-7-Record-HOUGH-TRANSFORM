@@ -1,5 +1,11 @@
 #  Lane Detection
 
+##  Developed By
+
+* **Name:** Vasanth P
+* **Register No:** 2122230295
+
+
 ##  Aim
 
 To implement a basic lane detection pipeline using OpenCV by completing missing code segments at specified locations.
@@ -264,8 +270,3 @@ plt.axis('off')
 Thus, the lane detection pipeline is successfully implemented by completing the missing code sections. The system detects and highlights lane lines effectively.
 
 ---
-
-##  Developed By
-
-* **Name:** Vasanth P
-* **Register No:** 2122230295
